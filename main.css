@@ -12,3 +12,8 @@ form {
 input, label, button {
     margin: 15px;
 }
+
+.hidden {
+    display: none;
+  }
+  
