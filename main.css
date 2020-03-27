@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 15px;
+}
+
+form {
+    margin: 0;
+}
+input, label, button {
+    margin: 15px;
+}
